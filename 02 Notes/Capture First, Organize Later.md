@@ -1,7 +1,7 @@
 ---
 type: permanent
 created: 2026-03-03
-source: "[[2026-03-02 1512]], [[2026-03-03 1047]], [[2026-03-03 1249]]"
+source: "[[2026-03-02 1512]], [[2026-03-03 1047]], [[2026-03-03 1249]], [[2026-03-03 1516]]"
 tags: [productivity, writing, metacognition]
 ---
 
@@ -26,7 +26,13 @@ This maps directly onto a writing principle shared with a postdoc: **don't censo
 
 There's a real tension between exploring tools/systems and actually producing output.[^6] Days can disappear into setup and configuration.[^7] The recognition of needing dedicated time for actual writing[^8] and a system to help focus[^9] is itself important -- but the system should serve the work, not become the work.
 
+This pattern recurs: another day spent setting up Obsidian and interacting via Claude instead of editing a paper.[^11] There's awareness that the paper is "high-yield" and should be the priority, but the pull of new tools is strong.[^12]
+
 **Key insight**: Noticing the pattern is the first step. A lightweight daily intention or time-boxing practice could help channel exploration energy without letting it consume production time.
+
+## The Maker Upside
+
+The distraction isn't purely unproductive. The same AI exploration yielded a mouse colony visualizer for planning experiments -- something that would have been inaccessible or taken tremendous effort before.[^13] The emerging mental model is a **maker mentality**: the ability to build custom tools on demand when you need them.[^14] The challenge is distinguishing exploration that creates lasting value from exploration that just feels productive.
 
 ## Links
 - [[Knowledge Management System Vision]]
@@ -35,6 +41,7 @@ There's a real tension between exploring tools/systems and actually producing ou
 - [[2026-03-02 1512]]
 - [[2026-03-03 1047]]
 - [[2026-03-03 1249]]
+- [[2026-03-03 1516]]
 
 [^1]: "The slowing that happens with typing gives my brain time to think and reformat." -- [[2026-03-02 1512]]
 [^2]: "When I'm doing things by keyboard, what comes out is usually a little more polished, a little more intentional, more related to other things." -- [[2026-03-02 1512]]
@@ -46,3 +53,7 @@ There's a real tension between exploring tools/systems and actually producing ou
 [^8]: "I need to just do the hard work of doing the output production rather than just exploring... I need time, dedicated time for that." -- [[2026-03-03 1047]]
 [^9]: "I feel a little unmoored. I need a system to help focus me." -- [[2026-03-03 1047]]
 [^10]: "It's recording for me right now, so I can say things much faster, about 180 words per minute, versus typing, and so I can just do a whole grant in a day now." -- [[2026-03-03 1249]]
+[^11]: "I once again got sidetracked today, working with Claude and doing A.I. things. I really should be editing this paper." -- [[2026-03-03 1516]]
+[^12]: "I don't know why I'm not wanting to do it. It feels maybe drab... but I'm having fun trying out all these tools." -- [[2026-03-03 1516]]
+[^13]: "I'm making this mouse colony visualizer that is helping me see my mouse colony and helping me plan the experiments. I think that's net useful... This is showing the power of these new A.I. tools, and I can just do things that would have taken me a tremendous amount of effort or would have been inaccessible previously." -- [[2026-03-03 1516]]
+[^14]: "I can envision the next months and years being full of the ability to build things when you want them. That maker mentality." -- [[2026-03-03 1516]]
