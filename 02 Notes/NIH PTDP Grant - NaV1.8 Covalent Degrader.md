@@ -14,7 +14,7 @@ tags:
 
 ## Overview
 
-Planning an NIH PTDP grant submission with **Rob Gereau** for the **naV1.8 Covalent Degrader Project**.[^1] Early-stage planning -- need to begin strategizing now.[^2]
+Planning an NIH PTDP grant submission with **Rob Gereau** for the **[[NaV1.8]] Covalent Degrader Project**.[^1] Early-stage planning -- need to begin strategizing now.[^2]
 
 ## Action Items
 
@@ -30,7 +30,9 @@ Planning an NIH PTDP grant submission with **Rob Gereau** for the **naV1.8 Coval
 - Who would be the right collaborator to strengthen the application?
 
 ## Links
--
+- [[NaV1.8]]
+- [[VHL]]
+- [[dTAG]]
 
 ## Source Inbox Notes
 - [[2026-03-02 1522]]

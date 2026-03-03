@@ -12,11 +12,12 @@ tags: [entity, ion-channel, sodium-channel, pain, DRG]
 NaV1.8 (encoded by SCN10A) is a voltage-gated sodium channel predominantly expressed in dorsal root ganglion (DRG) nociceptors. It is a validated pain target due to its role in action potential propagation in pain-sensing neurons.
 
 ## What I Know
-- Target of the covalent degrader project under the NIH PTDP grant with Rob Gereau.[^1]
-- The grant strategy involves developing a NaV1.8 covalent degrader, with early-stage planning underway.[^2]
+- Target of the covalent degrader project under the [[NIH PTDP Grant - NaV1.8 Covalent Degrader|NIH PTDP grant]] with Rob Gereau.[^1]
+- The grant strategy involves developing a [[NaV1.8]] covalent degrader, with early-stage planning underway.[^2]
 
 ## Open Questions
 - What is the current status of the covalent compound? (action item: ask Simone Haroutounian)
+- How does [[VHL]]-based targeted degradation (via [[dTAG]]) relate to the covalent degrader approach?
 - What PTDP entry points are available for this target?
 - Innovation score criteria for the PTDP application?
 

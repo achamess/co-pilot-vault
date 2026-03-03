@@ -16,7 +16,7 @@ tags:
 # Chamessian NIH PTDP Brainstorming with Rob Gereau - 2026-03-02
 
 ## Context
-Early-stage brainstorming session for an NIH PTDP grant submission focused on the NaV1.8 covalent degrader project.
+Early-stage brainstorming session for an NIH PTDP grant submission focused on the [[NaV1.8]] covalent degrader project.
 
 ## Key Points
 - Need to understand current PTDP entry points and status of the covalent compound
@@ -37,3 +37,4 @@ Early-stage brainstorming session for an NIH PTDP grant submission focused on th
 
 ## Links
 - [[NIH PTDP Grant - NaV1.8 Covalent Degrader]]
+- [[NaV1.8]]

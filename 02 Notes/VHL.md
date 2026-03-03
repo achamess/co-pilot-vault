@@ -9,11 +9,11 @@ tags: [entity, E3-ligase, ubiquitin, PROTAC]
 # VHL
 
 ## What It Is
-Von Hippel-Lindau protein (pVHL) is a component of a Cullin RING E3 ubiquitin ligase complex. Its canonical role is oxygen-dependent ubiquitination and degradation of HIF-1α. It has been widely co-opted in targeted protein degradation as the E3 ligase recruited by VHL-based PROTACs and the dTAG system.
+Von Hippel-Lindau protein (pVHL) is a component of a Cullin RING E3 ubiquitin ligase complex. Its canonical role is oxygen-dependent ubiquitination and degradation of HIF-1α. It has been widely co-opted in targeted protein degradation as the E3 ligase recruited by VHL-based PROTACs and the [[dTAG]] system.
 
 ## What I Know
 - VHL E3 ligase is present and functional in mouse dorsal root ganglion (DRG) neurons, demonstrated by CRISPR-Cas9 knockdown affecting the HIF-1α/SARM1 pathway.[^1]
-- This confirms VHL can be leveraged for the dTAG-V1 PROTAC system in DRG neurons.[^2]
+- This confirms VHL can be leveraged for the [[dTAG|dTAG-V1]] PROTAC system in DRG neurons.[^2]
 - VHL is one of the most well-characterized E3 ligases for PROTAC development, with high-quality small-molecule ligands available.
 
 ## Open Questions

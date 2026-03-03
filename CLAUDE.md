@@ -7,7 +7,7 @@
 4. Create source notes (`04 Sources/`) for papers, meetings, or other reference material
 5. Update existing permanent notes when new captures relate to existing topics (don't duplicate)
 6. Create or update entity notes when an entity appears in 2+ notes, or when explicitly requested
-7. Cross-link notes with `[[wikilinks]]`
+7. **Liberally add inline `[[wikilinks]]`** throughout note body text — link entities, other notes, sources, and people wherever they appear. Use `[[target|display text]]` aliases when needed for readability. Don't link inside footnote quotes (keep those verbatim).
 8. Mark inbox notes as `processed: true` and move to `07 Archive/`
 9. Commit and push to GitHub
 
