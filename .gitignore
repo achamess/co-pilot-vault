@@ -1,0 +1,13 @@
+# Obsidian workspace (changes constantly, not useful to track)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# iCloud artifacts
+*.icloud
+.Trash/
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
