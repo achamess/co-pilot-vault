@@ -1,7 +1,7 @@
 ---
 type: entity
 entity_type: technique
-aliases: [dTAG system, dTAG-V1, DTAG, dTAG PROTAC]
+aliases: [dTAG system, dTAG-V1, dTAG-13, DTAG, dTAG PROTAC]
 created: 2026-03-03
 tags: [entity, targeted-protein-degradation, PROTAC, VHL]
 ---
@@ -14,6 +14,7 @@ The dTAG system is a chemical biology tool for acute, reversible, and selective 
 ## What I Know
 - dTAG-V1 recruits [[VHL]] as its E3 ligase, so [[VHL]] expression in the target cell type is a prerequisite.[^1]
 - [[VHL]] is confirmed present in mouse DRG neurons, validating that the dTAG system should work in sensory neurons.[^2]
+- Planning an in vivo experiment: inject dTAG-13 into mouse, then perform capsaicin test with automated behavioral analysis via DeepLabCut.[^3]
 
 ## Open Questions
 - What degradation kinetics can be expected in DRG neurons in vivo?
@@ -24,6 +25,8 @@ The dTAG system is a chemical biology tool for acute, reversible, and selective 
 - [[VHL]]
 - [[VHL in DRG Neurons and the dTAG System]]
 - [[NaV1.8]]
+- [[dTAG-13 Capsaicin Experiment Plan]]
 
 [^1]: "VHL is in mouse DRG neurons which I will need to leverage for my purposes with the DTAG system using the DTAG V1 PROTAC." -- [[2026-03-03 1357]]
 [^2]: "They show that VHL E3 ligase is present in mouse dorsal root ganglion neurons." -- [[2026-03-03 1357]]
+[^3]: "We're talking about using video analysis for mouse behavior, in particular for capsaicin. We want to do a test where we inject the DTAG-13 into the mouse and then do capsaicin. I want to use this automated video analysis based on DeepLabCut." -- [[2026-03-03 1421]]
