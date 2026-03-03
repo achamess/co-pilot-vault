@@ -12,7 +12,7 @@ tags: [experiment, dTAG, capsaicin, behavior, DeepLabCut, in-vivo]
 Discussed with Rich: inject [[dTAG|dTAG-13]] into mouse to degrade the tagged target, then perform a capsaicin behavioral test.[^1] Use automated video analysis with DeepLabCut to quantify pain-related behaviors.[^2]
 
 ## Components
-- **Degrader**: [[dTAG|dTAG-13]] (in vivo administration)
+- **Degrader**: [[dTAG|dTAG-13]] (in vivo administration; recruits CRBN, not [[VHL]])
 - **Behavioral assay**: Capsaicin injection (TRPV1 agonist)
 - **Analysis**: DeepLabCut — markerless pose estimation for automated behavioral scoring
 
@@ -24,7 +24,6 @@ Discussed with Rich: inject [[dTAG|dTAG-13]] into mouse to degrade the tagged ta
 
 ## Links
 - [[dTAG]]
-- [[VHL]]
 - [[NaV1.8]]
 
 ## Source Inbox Notes

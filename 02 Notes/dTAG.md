@@ -9,7 +9,7 @@ tags: [entity, targeted-protein-degradation, PROTAC, VHL]
 # dTAG
 
 ## What It Is
-The dTAG system is a chemical biology tool for acute, reversible, and selective protein degradation. It uses a bifunctional molecule (dTAG-V1) that recruits the [[VHL]] E3 ligase to degrade FKBP12(F36V)-tagged proteins. Requires genetic tagging of the target protein with an FKBP12(F36V) degron.
+The dTAG system is a chemical biology tool for acute, reversible, and selective protein degradation. It uses bifunctional molecules to degrade FKBP12(F36V)-tagged proteins. Two main variants exist: **dTAG-V1** recruits [[VHL]] as the E3 ligase, while **dTAG-13** recruits CRBN (cereblon). Both require genetic tagging of the target protein with an FKBP12(F36V) degron.
 
 ## What I Know
 - dTAG-V1 recruits [[VHL]] as its E3 ligase, so [[VHL]] expression in the target cell type is a prerequisite.[^1]
