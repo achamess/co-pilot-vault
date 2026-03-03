@@ -34,6 +34,15 @@
 - **Inbox notes** use `type: inbox` — raw unprocessed capture
 - **MOCs** use `type: moc` — high-level topic maps linking to entities, notes, and sources
 
+## Session Summaries
+- **At the end of every Claude Code session**, automatically create a session summary note in `04 Sources/`
+- Filename: `Claude Session - YYYY-MM-DD.md` (append a number if multiple sessions in one day)
+- Use `source_type: claude-session`
+- Summarize: key decisions, notes created/updated, vault changes, and open questions
+- Link to all notes created or modified during the session
+- Commit and push after writing the summary
+- This is the **last thing done** before the session ends
+
 ## Entity Notes
 - **What they are**: Hub notes for specific things (proteins, compounds, people, techniques) that compile what you know from across the vault
 - **Division of labor**: Entity = what is known about X; Permanent note = what you think/argue about X
