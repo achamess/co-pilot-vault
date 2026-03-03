@@ -1,7 +1,7 @@
 ---
 type: permanent
 created: 2026-03-03
-source: "[[2026-03-02 1512]], [[2026-03-03 1047]], [[2026-03-03 1249]], [[2026-03-03 1516]]"
+source: "[[2026-03-02 1512]], [[2026-03-03 1047]], [[2026-03-03 1249]], [[2026-03-03 1516]], [[2026-03-03 1709]]"
 tags: [productivity, writing, metacognition]
 ---
 
@@ -34,6 +34,10 @@ This pattern recurs: another day spent setting up Obsidian and interacting via C
 
 The distraction isn't purely unproductive. The same AI exploration yielded a mouse colony visualizer for planning experiments -- something that would have been inaccessible or taken tremendous effort before.[^13] The emerging mental model is a **maker mentality**: the ability to build custom tools on demand when you need them.[^14] The challenge is distinguishing exploration that creates lasting value from exploration that just feels productive.
 
+## From Distraction to Strategy
+
+The framing is shifting. What started as "I keep getting sidetracked" is becoming something more deliberate: tool-building as a legitimate investment. The LIMS vision — replacing [[Airtable]] with a local, AI-integrated lab management system — is a project that was always wanted but previously felt inaccessible without coding skills.[^15] AI has changed that calculus.[^16] The tension between "build tools" and "produce outputs" isn't going away, but the argument for building is getting stronger as the tools get more directly useful. The real discipline is **sequencing**: getting the immediate deliverables done (like the NaV dTAG paper) and then building with intention, not as avoidance.
+
 ## Links
 - [[Knowledge Management System Vision]]
 
@@ -42,6 +46,7 @@ The distraction isn't purely unproductive. The same AI exploration yielded a mou
 - [[2026-03-03 1047]]
 - [[2026-03-03 1249]]
 - [[2026-03-03 1516]]
+- [[2026-03-03 1709]]
 
 [^1]: "The slowing that happens with typing gives my brain time to think and reformat." -- [[2026-03-02 1512]]
 [^2]: "When I'm doing things by keyboard, what comes out is usually a little more polished, a little more intentional, more related to other things." -- [[2026-03-02 1512]]
@@ -57,3 +62,5 @@ The distraction isn't purely unproductive. The same AI exploration yielded a mou
 [^12]: "I don't know why I'm not wanting to do it. It feels maybe drab... but I'm having fun trying out all these tools." -- [[2026-03-03 1516]]
 [^13]: "I'm making this mouse colony visualizer that is helping me see my mouse colony and helping me plan the experiments. I think that's net useful... This is showing the power of these new A.I. tools, and I can just do things that would have taken me a tremendous amount of effort or would have been inaccessible previously." -- [[2026-03-03 1516]]
 [^14]: "I can envision the next months and years being full of the ability to build things when you want them. That maker mentality." -- [[2026-03-03 1516]]
+[^15]: "I've always envisioned this, but I felt that I couldn't do it because I didn't have the code skills. I think now, with AI, I can do it." -- [[2026-03-03 1709]]
+[^16]: "There is always this tension between things I need to do today, like, for example, this paper that I need to get out the door and grants that need to be written, vs. building tools and learning. I think I need to make time for both, especially if the tools are supportive." -- [[2026-03-03 1709]]
