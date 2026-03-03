@@ -34,7 +34,7 @@ tags: [claude-session]
 - [[Chamessian NIH PTDP Brainstorming with Rob Gereau - 2026-03-02]] — source note, meeting template applied
 
 ## Notes Updated
-- [[Capture First, Organize Later]] — added voice capture speed data (~180 wpm)
+- [[Capture First, Organize Later]] — added voice capture speed data (~180 wpm), recurring distraction pattern, new "Maker Upside" section
 - [[Knowledge Management System Vision]] — added paper reading workflow section
 - [[dTAG]] — added dTAG-13 alias, CRBN distinction, in vivo experiment info
 
@@ -45,7 +45,7 @@ tags: [claude-session]
 - Removed Capture section from Daily Note template
 - Installed Zotero Integration plugin (obsidian-zotero-desktop-connector)
 - Fixed trailing-space filenames across all inbox notes
-- Processed and archived 10 inbox notes total
+- Processed and archived 12 inbox notes total (1 journal entry archived without distillation)
 
 ## Open Questions
 - Zotero Integration plugin needs GUI configuration in Obsidian (import format, output path, bibliography style)
