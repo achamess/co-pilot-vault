@@ -2,8 +2,12 @@
 type: source
 source_type: paper
 title: "Hypoxia-inducible factor 1 protects neurons from Sarm1-mediated neurodegeneration"
+authors: [Paul Meraner, Adel Avetisyan, Kevin Swift, Ya-Chen Cheng, Romina Barria, Marc R. Freeman]
 journal: Cell Reports
+volume: 45
+issue: 2
 doi: 10.1016/j.celrep.2025.116873
+citekey: meranerHypoxiainducibleFactor12026
 year: 2026
 created: 2026-03-03
 tags: [paper, HIF-1, SARM1, VHL, neurodegeneration, DRG, CRISPR]
@@ -11,7 +15,7 @@ tags: [paper, HIF-1, SARM1, VHL, neurodegeneration, DRG, CRISPR]
 
 # Hypoxia-inducible factor 1 protects neurons from Sarm1-mediated neurodegeneration
 
-**Cell Reports** (2026) | [DOI](https://doi.org/10.1016/j.celrep.2025.116873)
+**Meraner P, Avetisyan A, Swift K, Cheng Y-C, Barria R, Freeman MR** | **Cell Reports** 45(2), 2026 | [DOI](https://doi.org/10.1016/j.celrep.2025.116873)
 
 ## Key Claims
 - Loss of VHL suppresses SARM1-mediated cellular degeneration (found via CRISPR-Cas9 screen)
