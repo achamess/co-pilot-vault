@@ -1,7 +1,7 @@
 ---
 type: permanent
 created: 2026-03-03
-source: "[[2026-03-02 1509]], [[2026-03-02 1510]], [[2026-03-02 1511]]"
+source: "[[2026-03-02 1509]], [[2026-03-02 1510]], [[2026-03-02 1511]], [[2026-03-03 1344]]"
 tags: [knowledge-management, obsidian, AI, workflow]
 ---
 
@@ -17,6 +17,10 @@ The central workflow philosophy is **capture first, organize later**. The Inbox 
 - **AI-assisted processing** - Claude reads inbox notes, identifies themes, merges redundancies, and produces organized permanent notes.[^2] If there are duplicates, the system should search for redundancies, track changes, and merge things.[^5]
 - **Deduplication and conflict resolution** - A critical unsolved problem: AI outputs are generative, not deterministic, producing scattered, conflicting copies.[^6] The system needs a way to track what's already been said, detect redundancy, and merge rather than duplicate.
 
+## Paper Reading Workflow
+
+The same capture-first principle extends to reading scientific papers. Rather than stopping to fill out a structured source note mid-read, the workflow is: capture reactions and findings in the Inbox, mention the source naturally, and let processing create both a Source Note (preserved reference) and permanent notes (your thinking).[^8] The key is reducing friction -- just save the source and let Claude sort it out.[^9]
+
 ## Open Problems
 
 - **AI output versioning**: Each AI session starts fresh and doesn't know what's already been said and done.[^7] Need a strategy for incremental refinement rather than regeneration from scratch.
@@ -29,6 +33,7 @@ The central workflow philosophy is **capture first, organize later**. The Inbox 
 - [[2026-03-02 1509]]
 - [[2026-03-02 1510]]
 - [[2026-03-02 1511]]
+- [[2026-03-03 1344]]
 
 [^1]: "I will just capture notes of any kind. Whatever comes out of my mind, I'll do it right here in the Inbox." -- [[2026-03-02 1511]]
 [^2]: "These notes will be then processed automatically by Claude later on and made into more consistent notes." -- [[2026-03-02 1511]]
@@ -37,3 +42,5 @@ The central workflow philosophy is **capture first, organize later**. The Inbox 
 [^5]: "If I have duplicates, it will search for redundancies elsewhere, track the changes, and merge things." -- [[2026-03-02 1511]]
 [^6]: "What ends up happening is that you end up creating multiple copies that are conflicting with one another. This is since it's generative and not deterministic. There's scattered conflicting evidence all over the place." -- [[2026-03-02 1510]]
 [^7]: "The AI starts anew and doesn't know what's already been said and done. There's got to be a way around this." -- [[2026-03-02 1510]]
+[^8]: "I read a paper, I see a thing, I find some finding, and then I have to immediately go to Obsidian. I wanted to link to the original source paper back in Zotero so that I know where it came from, and then maybe, using that, when processing happens, there can be a compilation note that brings together all the little snippets from this paper." -- [[2026-03-03 1344]]
+[^9]: "I want to reduce friction as much as possible. I might need to just save the source and let Claude do its thing, but this would be really nice for on-the-fly thoughts about reading." -- [[2026-03-03 1344]]

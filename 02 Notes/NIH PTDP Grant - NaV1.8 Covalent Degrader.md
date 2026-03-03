@@ -2,7 +2,12 @@
 type: permanent
 created: 2026-03-03
 source: "[[2026-03-02 1522]], [[Chamessian NIH PTDP Brainstorming with Rob Gereau - 2026-03-02]]"
-tags: [grant, NIH, PTDP, naV1.8, covalent-degrader, pain]
+tags:
+  - grant
+  - NIH
+  - PTDP
+  - covalent-degrader
+  - pain
 ---
 
 # NIH PTDP Grant - NaV1.8 Covalent Degrader
